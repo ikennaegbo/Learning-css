@@ -1,0 +1,19 @@
+body{
+    background: color #f4f4f4;
+    color:#95a898;
+font-family: Georgia, 'Times New Roman', Times, serif;
+line-height: 1.6em;
+margin: 0px
+}
+.container{
+    width: 80%;
+    margin:auto;
+    
+}
+.box{
+    background-color:#643404 ;
+    border: 10px rgb(32, 127, 186) solid;
+    border-width: 25px;
+    padding: 1.6em;
+    
+}
